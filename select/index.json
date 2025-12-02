@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "瞳惚れ",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-02T19:25:37.593012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞳惚れ",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_瞳惚れ_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞳惚れ",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_瞳惚れ_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞳惚れ - hitomibore",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/03_瞳惚れ_-_hitomibore_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞳惚れ - hitomibore",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_瞳惚れ_-_hitomibore_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳惚れ",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_瞳惚れ_Vaundy.txt"
+    }
+  ]
+}
